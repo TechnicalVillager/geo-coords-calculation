@@ -1,5 +1,10 @@
 # Geographic Coordinates calculation for determining the Destination Location or Distance & Bearing
 
+```
+ⓘ Note: Archiving this Project because this project is moved as library to the following repo:
+          1. https://github.com/TechnicalVillager/geo_coords
+```
+
 This project reads user input on the execution and perform the following operations based on the user inputs:
 1. Gets the input home & destination location's geographic coordinates and returns the distance and bearing between two locations
 2. Gets the input home location and the destination's distance and bearing, and returns the destination's geographic coordinates
